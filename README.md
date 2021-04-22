@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Saurav Pahuja</h1>
 <h3 align="center">A passionate Data Analyst/Front End Developer from India</h3>
 
+-I always thrive to contribute and share my knowledge with others in any way possible.
+
 - 🔭 I’m currently working as **Student Research Assistant**
 
-- 💬 Ask me about **Data Analysis, React js.**
+- 💬 Ask me about **Data Analysis, React js.** and anything you feel like asking.
+
+-Studying Master's in Applied Computer Science from Schmalkalden University of Applied Sciences, Germany 
 
 - 📫 How to reach me **Saurav.pahuja786@gmail.com**
 
